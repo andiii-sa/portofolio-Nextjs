@@ -1,0 +1,88 @@
+{
+  "data": [
+    {
+      "id": "storegg",
+      "title": "StoreGG",
+      "category": "Website",
+      "image": [
+        {
+          "id": "1i1",
+          "image": "img-storegg1.png"
+        },
+        {
+          "id": "1i2",
+          "image": "img-storegg2.jpg"
+        },
+        {
+          "id": "1i3",
+          "image": "img-storegg3.jpg"
+        },
+        {
+          "id": "1i4",
+          "image": "img-storegg4.jpg"
+        },
+        {
+          "id": "1i5",
+          "image": "img-storegg5.jpg"
+        }
+      ],
+      "description": "Store GG adalah sebuah website Latihan yang saya buat untuk mempelajari tentang framework NextJS sebagai front-end dan ExpressJS sebagai back-end serta untuk database menggunakan MongoDB. <br /> <br /> project tentang aplikasi CRUD untuk topup voucher game seperti Mobile Legends, Valorant dan lain-lain. Seperti hal umumnya pada website-website lain, dan fitur yang ada pada website ini antara lain: login, signup, dashboard member, halaman topup, dashoard home, menggunakan JWToken sebagai authtentication dan menggunakan bootstrap seabgain basis CSS.",
+      "framework": [
+        {
+          "id": "1f1",
+          "image": "fw-Nextjs.png"
+        },
+        {
+          "id": "1f2",
+          "image": "fw-expressjs.png"
+        },
+        {
+          "id": "1f3",
+          "image": "db-mongodb.png"
+        }
+      ]
+    },
+    {
+      "id": "staycation",
+      "title": "Staycation",
+      "category": "Website",
+      "image": [
+        {
+          "id": "1i1",
+          "image": "img-staycation1.jpg"
+        },
+        {
+          "id": "1i2",
+          "image": "img-staycation2.jpg"
+        },
+        {
+          "id": "1i3",
+          "image": "img-staycation3.jpg"
+        },
+        {
+          "id": "1i4",
+          "image": "img-staycation4.jpg"
+        },
+        {
+          "id": "1i5",
+          "image": "img-staycation5.jpg"
+        }
+      ],
+      "description": "Staycation adalah sebuah website Latihan yang saya buat untuk mempelajari tentang framework <b>ReactJS sebagai front-end dan ExpressJS sebagai back-end serta untuk database menggunakan MongoDB. </b> <br /> <br /> project tentang aplikasi CRUD untuk memesan / booking hotel sebagai tempat tinggal kita selama liburan. Seperti hal umumnya pada website-website lain, dan fitur yang ada pada website ini antara lain: dashboard, memilih hotel, booking date dll. serta menggunakan bootstrap sebagai basis CSS.",
+      "framework": [
+        {
+          "id": "1f1",
+          "image": "fw-reactjs.png"
+        },
+        {
+          "id": "1f2",
+          "image": "fw-expressjs.png"
+        },
+        {
+          "id": "1f3",
+          "image": "db-mongodb.png"
+        }
+      ]
+    }
+  ]
+}
