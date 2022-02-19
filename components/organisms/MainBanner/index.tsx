@@ -11,7 +11,7 @@ export default function MainBanner() {
         <div className="container">
           <div className="row px-5">
             <div className="col-12 col-sm-12 col-md-12 col-lg-6 align-self-center">
-              <Fade delay={500} cascade>
+              <Fade delay={400} cascade triggerOnce>
                 <div className="row">
                   <h1>
                     Hi, <br />
@@ -67,7 +67,7 @@ export default function MainBanner() {
               </Fade>
             </div>
             <div className="col-md-6 col-lg-6 d-none d-sm-none d-md-none d-lg-block img-hero">
-              <Fade delay={700}>
+              <Fade delay={600} triggerOnce>
                 <Image
                   src="/img/img-header.jpg"
                   className="img-fluid float-end"

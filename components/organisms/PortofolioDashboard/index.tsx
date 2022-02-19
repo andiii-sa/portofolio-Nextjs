@@ -15,7 +15,7 @@ export default function PortofolioDashboard(props: PortofolioDashboardProps) {
     <>
       <section className="section-portofolio">
         <div className="container">
-          <Fade delay={1300} cascade>
+          <Fade delay={1200} cascade triggerOnce>
             <div className="row justify-content-center">
               <h3 className="text-center">Portofolio</h3>
             </div>

@@ -15,7 +15,7 @@ export default function Portofolio(props: PortofolioProps) {
     <>
       <section className="section-portofolio">
         <div className="container">
-          <Fade delay={1400} cascade>
+          <Fade delay={400} cascade triggerOnce>
             <div className="row justify-content-center">
               <h3 className="text-center">Portofolio</h3>
             </div>

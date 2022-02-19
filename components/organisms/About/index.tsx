@@ -8,7 +8,7 @@ export default function About() {
         <div className="container">
           <div className="row justify-content-center">
             <div className="col-12 col-sm-12 col-md-12">
-              <Fade delay={1000} cascade>
+              <Fade delay={800} cascade triggerOnce>
                 <h3 className="text-center" id="about">
                   About
                 </h3>
@@ -23,7 +23,7 @@ export default function About() {
               </Fade>
             </div>
           </div>
-          <Fade delay={1200} cascade>
+          <Fade delay={1000} cascade triggerOnce>
             <div className="row mt-4 justify-content-center">
               <FrameworkItem icon="fw-Nextjs.png" name="NextJS" />
               <FrameworkItem icon="fw-reactjs.png" name="ReactJS" />

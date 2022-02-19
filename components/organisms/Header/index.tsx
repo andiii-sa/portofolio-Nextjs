@@ -16,7 +16,7 @@ export default function Header(props: HeaderProps) {
     <>
       <header>
         <div className="container">
-          <Fade delay={300}>
+          <Fade delay={200} triggerOnce>
             <nav className="navbar navbar-expand-lg navbar-light">
               <Link href="/">
                 <a className="navbar-brand">

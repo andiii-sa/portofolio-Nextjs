@@ -28,7 +28,7 @@ export default function Detail({ data }: DetailProps) {
 
       <section className="section-portofolio-detail">
         <div className="container">
-          <Fade delay={1500} cascade>
+          <Fade delay={400} cascade triggerOnce>
             <div className="row justify-content-center">
               <h3 className="text-center">{data.title}</h3>
               <h5 className="text-center mt-1">{data.category}</h5>
