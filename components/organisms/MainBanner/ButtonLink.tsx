@@ -22,7 +22,7 @@ export default function ButtonLink(props: ButtonLinkProps) {
       <Link href={href}>
         <a className={classBtn}>
           {`${title} `}
-          <i className={`ms-2 ${icon}`}></i>
+          <i className={`ms-2 ${icon}`} aria-hidden="true"></i>
         </a>
       </Link>
     </>

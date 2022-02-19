@@ -5,8 +5,8 @@ import "../styles/scss/style.scss";
 // import "../styles/js/bootstrap.bundle";
 
 // import fontawesome
-import "../node_modules/@fortawesome/fontawesome-free/css/all.min.css";
-import "../node_modules/@fortawesome/fontawesome-free/js/all.min";
+import "../styles/fontawesome/scss/font-awesome.scss";
+
 import Head from "next/head";
 
 function MyApp({ Component, pageProps }: AppProps) {

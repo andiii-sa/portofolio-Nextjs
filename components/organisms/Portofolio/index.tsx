@@ -43,8 +43,7 @@ export default function Portofolio(props: PortofolioProps) {
                 ) : (
                   <Link href="/">
                     <a className="btn btn-outline-primary">
-                      <i className="fa-solid fa-arrow-alt-circle-left ms-2"></i>{" "}
-                      Back
+                      <i className="fa fa-arrow-circle-left ms-2"></i> Back
                     </a>
                   </Link>
                 )}

@@ -69,7 +69,7 @@ export default function Detail({ data }: DetailProps) {
                 <div className="text-center mt-4">
                   <Link href="/portofolio">
                     <a className="btn btn-outline-primary">
-                      <i className="fa-solid fa-arrow-alt-circle-left me-2"></i>
+                      <i className="fa fa-arrow-circle-left me-2"></i>
                       Back{" "}
                     </a>
                   </Link>

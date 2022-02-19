@@ -32,7 +32,7 @@ export default function PortofolioItem(props: PortofolioItemProps) {
                     <a className="btn btn-outline-primary float-end">
                       <span>
                         Detail
-                        <i className="fa-solid fa-circle-arrow-right ms-2"></i>
+                        <i className="fa fa-arrow-circle-right ms-2"></i>
                       </span>
                     </a>
                   </Link>

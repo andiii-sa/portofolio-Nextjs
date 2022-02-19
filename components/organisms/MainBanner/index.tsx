@@ -27,13 +27,13 @@ export default function MainBanner() {
                   <ButtonLink
                     title="Profile"
                     href="#about"
-                    icon="fa-regular fa-paper-plane"
+                    icon="fa fa-paper-plane-o"
                     outline={false}
                   />
                   <ButtonLink
                     title="Portofolio"
                     href="/portofolio"
-                    icon="fa-solid fa-location-arrow"
+                    icon="fa fa-arrow-circle-o-right"
                     outline
                   />
                 </div>

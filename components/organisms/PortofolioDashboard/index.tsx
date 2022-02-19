@@ -36,7 +36,7 @@ export default function PortofolioDashboard(props: PortofolioDashboardProps) {
                 <Link href="/portofolio">
                   <a className="btn btn-primary">
                     More Portofolio{" "}
-                    <i className="fa-solid fa-location-arrow ms-2"></i>
+                    <i className="fa fa-arrow-circle-right ms-2"></i>
                   </a>
                 </Link>
               </div>
