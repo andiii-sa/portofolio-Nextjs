@@ -12,7 +12,7 @@ export default function ThumbnailItem(props: ThumbnailItemProps) {
         <img
           src={`/img/${icon}`}
           alt="ic-thumbnail"
-          className="img-fluid"
+          className="img-fluid border"
           onClick={() => onClick(`${icon}`)}
         />
       </div>

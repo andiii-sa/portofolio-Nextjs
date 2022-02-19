@@ -26,7 +26,7 @@
           "image": "img-storegg5.jpg"
         }
       ],
-      "description": "Store GG adalah sebuah website Latihan yang saya buat untuk mempelajari tentang framework NextJS sebagai front-end dan ExpressJS sebagai back-end serta untuk database menggunakan MongoDB. <br /> <br /> project tentang aplikasi CRUD untuk topup voucher game seperti Mobile Legends, Valorant dan lain-lain. Seperti hal umumnya pada website-website lain, dan fitur yang ada pada website ini antara lain: login, signup, dashboard member, halaman topup, dashoard home, menggunakan JWToken sebagai authtentication dan menggunakan bootstrap seabgain basis CSS.",
+      "description": "Store GG adalah sebuah website Latihan yang saya buat untuk mempelajari tentang framework <b>NextJS</b> sebagai <b>front-end</b> dan <b>ExpressJS</b> sebagai <b>back-end</b> serta untuk database menggunakan <b>MongoDB</b>. <br /> <br /> project tentang aplikasi CRUD untuk topup voucher game seperti Mobile Legends, Valorant dan lain-lain. Seperti hal umumnya pada website-website lain, dan fitur yang ada pada website ini antara lain: login, signup, dashboard member, halaman topup, dashoard home, menggunakan <b>JWToken</b> sebagai authtentication dan menggunakan bootstrap seabgain basis CSS.",
       "framework": [
         {
           "id": "1f1",
@@ -81,6 +81,132 @@
         {
           "id": "1f3",
           "image": "db-mongodb.png"
+        }
+      ]
+    },
+    {
+      "id": "flywe",
+      "title": "Flywe",
+      "category": "Website",
+      "image": [
+        {
+          "id": "1i1",
+          "image": "img-flywe1.jpg"
+        },
+        {
+          "id": "1i2",
+          "image": "img-flywe2.jpg"
+        },
+        {
+          "id": "1i3",
+          "image": "img-flywe3.jpg"
+        },
+        {
+          "id": "1i4",
+          "image": "img-flywe4.jpg"
+        },
+        {
+          "id": "1i5",
+          "image": "img-flywe5.jpg"
+        }
+      ],
+      "description": "Flywe adalah sebuah project website yang digunakan untuk sebagai bahan penelitian yang bertujuan untuk <b>mengidentifikasi gambar ornament bangunan heritage</b>. untuk proses identifikasi menggunakan bahasa <b>Python</b> dengan <b>Framework Flask sebagai API </b>, sedangkan untuk basis utama website nya menggunakan <b>Framework Laravel 8 dengan sistem AUTH laravel breeze</b> dan database menggunakan <b>MySQL</b>.<br /> <br />Untuk proses identifikasi sendiri, saya menggunakan <b>metode Deep Learning (CNN)</b> dalam proses pengolahan citra yang digunakan, dan dalam proses tersebut project ini menggunakan <b>library Tensorflow dan Keras</b>.",
+      "framework": [
+        {
+          "id": "1f1",
+          "image": "fw-laravel.png"
+        },
+        {
+          "id": "1f2",
+          "image": "fw-python.png"
+        },
+        {
+          "id": "1f3",
+          "image": "fw-flask.png"
+        },
+        {
+          "id": "1f4",
+          "image": "db-mysql.png"
+        }
+      ]
+    },
+    {
+      "id": "fiye",
+      "title": "Fiye",
+      "category": "Mobile",
+      "image": [
+        {
+          "id": "1i1",
+          "image": "img-fiye1.png"
+        },
+        {
+          "id": "1i2",
+          "image": "img-fiye2.png"
+        },
+        {
+          "id": "1i3",
+          "image": "img-fiye3.png"
+        },
+        {
+          "id": "1i4",
+          "image": "img-fiye4.png"
+        }
+      ],
+      "description": "Fiye (Fine Your Need) adalah sebuah project mobile (android) latihan untuk tentang mempelajari sebuah Framework <b>Flutter</b> dengan database menggunakan <b>Firebase</b> untuk chatting dan <b>MySQL</b> untuk CRUD. dan untuk CRUD yang digunakan user storenya menggunakan website yang berbasis framework <b>Laravel</b> yang dimana akan digunakan sebagai basis <b>API</b> untuk get data dari mobile tersebut. .<br /> <br />project ini bercerita tentang sebuah aplikasi ecommerce yang digunakan untuk memesan sebuah sepatu. fitur yang dimiliki oleh aplikasi ini antara lain seperti <b>CRUD, dan chatting dengan store, wishlist, login, register dan logout</b>.",
+      "framework": [
+        {
+          "id": "1f1",
+          "image": "fw-flutter.png"
+        },
+        {
+          "id": "1f2",
+          "image": "fw-laravel.png"
+        },
+        {
+          "id": "1f3",
+          "image": "db-firebase.png"
+        },
+        {
+          "id": "1f4",
+          "image": "db-mysql.png"
+        }
+      ]
+    },
+    {
+      "id": "mydoctor",
+      "title": "My Doctor",
+      "category": "Mobile",
+      "image": [
+        {
+          "id": "1i1",
+          "image": "img-mydoctor1.png"
+        },
+        {
+          "id": "1i2",
+          "image": "img-mydoctor2.png"
+        },
+        {
+          "id": "1i3",
+          "image": "img-mydoctor3.png"
+        },
+        {
+          "id": "1i4",
+          "image": "img-mydoctor4.png"
+        },
+        {
+          "id": "1i5",
+          "image": "img-mydoctor5.png"
+        }
+      ],
+      "description": "MyDoctor adalah sebuah project mobile (android) latihan untuk mempelajari sebuah Framework <b>React Native</b> dengan database menggunakan <b>Firebase</b>.<br /> <br /> Project ini bercerita tentang sebuah layanan konsultasi secara online dengan dokter, dimana dalam aplikasi MyDoctor ini terdapat berbagai kategori dan rate tiap dokter yang ada. user bisa memilih dokter mana yang akan dia ajak konsultasi. fitur yang ada pada aplikasi ini antara lain seperti <b>login, register, chatting dan lain-lain</b>.",
+      "framework": [
+        {
+          "id": "1f1",
+          "image": "fw-reactnv.png"
+        },
+        {
+          "id": "1f2",
+          "image": "db-firebase.png"
         }
       ]
     }
