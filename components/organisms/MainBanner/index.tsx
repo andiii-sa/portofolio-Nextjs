@@ -33,7 +33,7 @@ export default function MainBanner() {
                   <ButtonLink
                     title="Portofolio"
                     href="/portofolio"
-                    icon="fa fa-arrow-circle-o-right"
+                    icon="fa fa-paper-plane"
                     outline
                   />
                 </div>
