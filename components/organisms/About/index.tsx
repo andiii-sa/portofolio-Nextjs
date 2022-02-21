@@ -26,7 +26,7 @@ export default function About() {
           <Fade delay={1000} cascade triggerOnce>
             <div className="row mt-4 justify-content-center">
               <FrameworkItem icon="fw-Nextjs.png" name="NextJS" />
-              <FrameworkItem icon="fw-reactjs.png" name="ReactJS" />
+              {/* <FrameworkItem icon="fw-reactjs.png" name="ReactJS" /> */}
               <FrameworkItem icon="fw-expressjs.png" name="ExpressJS" />
               <FrameworkItem icon="fw-laravel.png" name="Laravel 8" />
             </div>
