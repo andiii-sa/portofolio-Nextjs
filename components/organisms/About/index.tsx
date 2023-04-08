@@ -18,7 +18,7 @@ export default function About() {
                   I am very interested in learning javascript, but I have also
                   studied other than javascript languages.
                   <br />
-                  Some of the languages I’m learning.
+                  Some of the languages programming I’m learning.
                 </p>
               </Fade>
             </div>
